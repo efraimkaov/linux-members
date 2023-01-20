@@ -15,4 +15,4 @@ chmod +x lm.sh
 
 If you find a wrong link or a bug please open a new issue and send a Bug report.
 
-I'm open to add new Linux Distributions or Desktop interfaces if they have Reddit members of course, so feel free to open a new issue and send a Feature request, or send a Pull request.
+I'm open to add new Linux Distributions or Desktop interfaces (if they have Reddit members of course), so feel free to open a new issue and send a Feature request, or send a Pull request.
