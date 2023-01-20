@@ -17,3 +17,4 @@ Openbox, https://www.reddit.com/r/openbox/
 Wayfire, https://www.reddit.com/r/Wayfire/
 WMaker, https://www.reddit.com/r/windowmaker/
 Xfce, https://www.reddit.com/r/xfce/
+Sway, https://www.reddit.com/r/swaywm/
